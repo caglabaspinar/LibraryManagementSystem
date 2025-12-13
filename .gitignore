@@ -1,0 +1,5 @@
+# Visual Studio temporary files
+.vs/
+# Binaries and temporary data
+bin/
+obj/
